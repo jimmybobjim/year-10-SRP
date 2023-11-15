@@ -1,0 +1,1 @@
+lua54 main.lua %1
